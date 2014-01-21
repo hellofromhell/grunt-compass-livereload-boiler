@@ -1,0 +1,9 @@
+/* line 1, ../css/partials/_layout.scss */
+html {
+  background: red;
+}
+
+/* line 5, ../css/partials/_layout.scss */
+img {
+  margin-left: 200px;
+}
