@@ -1,0 +1,881 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"c",
+				"cur:t	cursor:text"
+			],
+			[
+				"bg",
+				"bg	background"
+			],
+			[
+				"borde",
+				"border-top-color"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ov",
+				"ov:h	overflow:hidden"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"fl",
+				"fl:l	float:left"
+			],
+			[
+				"unde",
+				"underline"
+			],
+			[
+				"u",
+				"underline"
+			],
+			[
+				"db",
+				"d:b	display:block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"pos",
+				"pos:a	position:absolute"
+			],
+			[
+				"pa",
+				"pos:a	position:absolute"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"lists",
+				"list-style-type"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"pos-",
+				"pos-r	position: relative;"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"po",
+				"pos-a	position: absolute;"
+			],
+			[
+				"new",
+				"new-product-btn"
+			],
+			[
+				"sho",
+				"show-form"
+			],
+			[
+				"add",
+				"addProductView"
+			],
+			[
+				"slide",
+				"slideDown	.slideDown()"
+			],
+			[
+				"remov",
+				"removeClass	.removeClass"
+			],
+			[
+				"di",
+				"d:i	display:inline"
+			],
+			[
+				"$",
+				"$el"
+			],
+			[
+				"d",
+				"d:b	display:block"
+			],
+			[
+				"bc",
+				"bdc	border-color"
+			],
+			[
+				"dib",
+				"d:ib	display:inline-block"
+			],
+			[
+				"cu",
+				"cur:p	cursor:pointer"
+			],
+			[
+				"prod",
+				"product-container"
+			],
+			[
+				"email",
+				"email_address"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"top",
+				"border-top"
+			],
+			[
+				"editConta",
+				"editContact"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"cl",
+				"click	click"
+			],
+			[
+				"edi",
+				"editContact"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"contac",
+				"contact"
+			],
+			[
+				"editContact",
+				"editContactView"
+			],
+			[
+				"Edit",
+				"EditContact"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"em",
+				"email_address"
+			],
+			[
+				"las",
+				"last_name"
+			],
+			[
+				"Vie",
+				"Views"
+			],
+			[
+				"C",
+				"Contacts"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"app",
+				"Appointments"
+			],
+			[
+				"tasks",
+				"tasksCollection"
+			],
+			[
+				"task",
+				"tasksCollection"
+			],
+			[
+				"V",
+				"Views"
+			],
+			[
+				"su",
+				"submit	submit"
+			],
+			[
+				"Collec",
+				"Collections"
+			],
+			[
+				"create",
+				"createSelect"
+			],
+			[
+				"Direct",
+				"DirectoryView"
+			],
+			[
+				"render",
+				"renderBook"
+			],
+			[
+				"Local",
+				"localStorage"
+			],
+			[
+				"ba",
+				"Backbone"
+			],
+			[
+				"exte",
+				"extend"
+			],
+			[
+				"chang",
+				"changed"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"an",
+				"appendTo	.appendTo"
+			],
+			[
+				"ajax",
+				"ajaxstart	$.ajaxStart()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Martin/Dropbox/Website Design/Olive Tree Interiors/Dev/index.html",
+			"settings":
+			{
+				"buffer_size": 284,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Martin/Dropbox/Website Design/Olive Tree Interiors/Dev/gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 2344,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Martin/Dropbox/Website Design/Olive Tree Interiors/Dev/css/styles.scss",
+			"settings":
+			{
+				"buffer_size": 321,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"backb",
+				"Snippet: Backbone requirejs Module definition"
+			],
+			[
+				"back",
+				"Snippet: backbone"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"brows",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"oack",
+				"Package Control: List Packages"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"Snippet: script",
+				"Snippet: Google AJAX Libraries: Scriptaculous"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/olivetree.sublime-project",
+		"/C/Users/Martin/Dropbox/Website Design/Olive Tree Interiors/Dev/server/index.html",
+		"/C/Users/Martin/Dropbox/Website Design/Olive Tree Interiors/Dev/test.html",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/partials/_layout.scss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/partials/_reset.scss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/README.md",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/gruntfile.js",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/package.json",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/styles.scss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/partials/_shame.scss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/partials/_forms.scss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/partials/_links.scss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/partials/_tables.sccss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/partials/_media.scss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/partials/_type.scss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/partials/_grid.scss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/partials/_variables.scss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/partials/_mixins.scss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/partials/_fonts.scss",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/sass/screen.scss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/js/main.js",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt/gruntfile.js",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt/package.json",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/_sass/styles.scss",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/build/js/main.min.js",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/styles.css",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt_livereload/css/styless.css",
+		"/C/Users/Martin/Dropbox/Website Design/Miraclist/dev/app/index.html",
+		"/C/Users/Martin/Dropbox/Website Design/Miraclist/dev/app/styles/main.scss",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/stylesheets/screen.css",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/config.rb",
+		"/C/Users/Martin/Downloads/Dust_An_Elysian_Tail-FLT/fairlight.nfo",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/index.html",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/contact.html",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/work-article.html",
+		"/C/Users/Martin/Dropbox/Website Design/uni etc/resp/css/style.css",
+		"/C/Users/Martin/Dropbox/Web design/realWebsite/styles/style.css",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/work.html",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/blog.html",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/article.html",
+		"/C/wamp/www/laravel/olive-tree/public/sass/screen.scss",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/proto.html",
+		"/C/Users/Martin/Dropbox/Website Design/experiments/grunt/build/js/base.min.js",
+		"/C/Users/Martin/Dropbox/Website Design/ghost/README.md",
+		"/C/Users/Martin/Dropbox/Website Design/host_root/index.html",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/sass/main/_layout.scss",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/sass/partials/_grids.scss",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/about.html",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/sass/partials/_typography.scss",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/sass/partials/_color.scss",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/sass/_typography.scss",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/sass/_color.scss",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/sass/print.scss",
+		"/C/Users/Martin/Dropbox/Website Design/Personal Site/web/sass/ie.scss",
+		"/C/wamp/www/bb/BackboneSwitchView/css/style.css",
+		"/C/wamp/www/laravel/olive-tree/public/js/views/products.js",
+		"/C/wamp/www/laravel/olive-tree/public/js/views/product.js",
+		"/C/wamp/www/laravel/olive-tree/public/js/views/chrome.js",
+		"/C/wamp/www/laravel/olive-tree/public/js/views/newProduct.js",
+		"/C/wamp/www/laravel/olive-tree/public/js/application.js",
+		"/C/wamp/www/laravel/cont-man/public/js/models.js",
+		"/C/wamp/www/laravel/cont-man/public/js/collections.js",
+		"/C/wamp/www/laravel/cont-man/public/js/main.js",
+		"/C/wamp/www/laravel/olive-tree/public/js/models/product.js",
+		"/C/wamp/www/laravel/olive-tree/public/sass/_typeplate.scss",
+		"/C/wamp/www/laravel/cont-man/app/controllers/ContactsController.php",
+		"/C/wamp/www/laravel/cont-man/app/views/home.blade.php",
+		"/C/wamp/www/laravel/cont-man/public/js/views.js",
+		"/C/wamp/www/laravel/olive-tree/app/controllers/ProductsController.php",
+		"/C/wamp/www/laravel/olive-tree/public/js/collections/products.js",
+		"/C/wamp/www/laravel/olive-tree/app/database/seeds/ProductsTableSeeder.php",
+		"/C/wamp/www/laravel/olive-tree/app/database/seeds/DatabaseSeeder.php",
+		"/C/wamp/www/laravel/olive-tree/app/models/Product.php",
+		"/C/wamp/www/laravel/olive-tree/app/views/index.blade.php",
+		"/C/wamp/www/laravel/cont-man/public/js/router.js",
+		"/C/wamp/www/laravel/cont-man/public/index.php",
+		"/C/wamp/www/laravel/cont-man/app/routes.php",
+		"/C/wamp/www/laravel/olive-tree/app/routes.php",
+		"/C/wamp/www/laravel/olive-tree/app/controllers/ProductController.php",
+		"/C/wamp/www/laravel/olive-tree/app/config/database.php",
+		"/C/wamp/www/laravel/olive-tree/app/database/migrations/2013_09_17_020457_create_products_table.php",
+		"/C/wamp/www/laravel/cont-man/app/database/migrations/2013_09_09_081214_create_contacts_table.php",
+		"/C/wamp/www/laravel/cont-man/app/models/Contact.php",
+		"/C/wamp/www/laravel/olive-tree/public/js/router.js",
+		"/C/wamp/www/laravel/olive-tree/public/js/app.js",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 2/Packages/Backbone.js/backbone.app.model.sublime-snippet",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 2/Packages/Backbone.js/backbone.app.collection.sublime-snippet",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 2/Packages/Backbone.js/backbone.app.view.sublime-snippet",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 2/Packages/Backbone.js/backbone.sublime-completions",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 2/Packages/Backbone.js/package-metadata.json",
+		"/C/wamp/www/laravel/olive-tree/models/product.js",
+		"/C/wamp/www/laravel/olive-tree/public/js/App.js",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 2/Packages/Backbone.js/README.md",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 2/Packages/Backbone.js/backbone.collection.sublime-snippet",
+		"/C/wamp/www/laravel/olive-tree/hi.js, hello.js",
+		"/C/wamp/www/laravel/olive-tree/hi.js; hello.js",
+		"/C/wamp/www/laravel/olive-tree/public/stylesheets/screen.css",
+		"/C/wamp/www/laravel/olive-tree/public/sass/_vars-typeplate.scss",
+		"/C/wamp/www/laravel/olive-tree/public/stylesheets/print.css",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/wamp/www/laravel/olive-tree/public/styles/scss/_vars-typeplate.scss",
+		"/C/wamp/www/laravel/olive-tree/public/styles/scss/_typeplate.scss",
+		"/C/Users/Martin/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/C/wamp/www/laravel/olive-tree/public/.htaccess",
+		"/C/wamp/www/laravel/cont-man/readme.md",
+		"/C/wamp/www/laravel/BackboneAndLaravel/app/controllers/TasksController.php",
+		"/C/Users/Martin/Desktop/ContactsController.php",
+		"/C/wamp/www/laravel/cont-man/app/config/view.php",
+		"/C/wamp/www/laravel/cont-man/public/models.js;views.js;collections.js;router.js",
+		"/C/wamp/www/laravel/cont-man/app/views/hello.php",
+		"/C/wamp/www/laravel/cont-man/app/config/database.php",
+		"/C/wamp/www/laravel/BackboneAndLaravel/app/database/seeds/tasks.php",
+		"/C/wamp/www/laravel/BackboneAndLaravel/app/models/Task.php",
+		"/C/wamp/www/laravel/BackboneAndLaravel/app/database/migrations/2013_09_06_124527_creat_tasks_table.php",
+		"/C/wamp/www/laravel/BackboneAndLaravel/app/config/database.php",
+		"/C/wamp/www/laravel/lartest/app/views/users.blade.php",
+		"/C/wamp/www/laravel/lartest/app/routes.php",
+		"/C/wamp/www/laravel/lartest/app/views/layout.blade.php",
+		"/C/wamp/www/laravel/lartest/app/database/migrations/2013_09_06_121941_create_users_table.php",
+		"/C/wamp/bin/apache/Apache2.4.4/conf/httpd.conf",
+		"/C/wamp/www/laravel/lartest/app/config/database.php",
+		"/C/wamp/bin/php/php5.4.12/php.ini",
+		"/C/UniServer/www/laraveltest/laraveltest/app/database/migrations/2013_09_06_111651_create_users_table.php",
+		"/C/UniServer/www/laraveltest/laraveltest/app/config/database.php",
+		"/C/UniServer/www/laraveltest/laraveltest/vendor/symfony/console/Symfony/Component/Console/Application.php",
+		"/C/UniServer/usr/local/php/php.ini",
+		"/C/UniServer/www/laraveltest/laraveltest/app/routes.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\laravel\\olive-tree\\public\\js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sass",
+			"/\";",
+			"yellow",
+			"    <",
+			"<!",
+			"<a href=\"twitter.com/mcollinswebdev\">Twitter</a>",
+			"5em",
+			"form",
+			"decimal",
+			"$main_link_colr",
+			"$sidebar_bg",
+			"$main_hovr_colr",
+			"Personal_cover_masked",
+			"personal",
+			"block",
+			"inline",
+			"none",
+			"line 51",
+			"reset",
+			"grids",
+			"style",
+			"3;",
+			"F2F1ED",
+			"Chrome",
+			"();",
+			"new-prod",
+			"unbind",
+			"slideUp",
+			"product",
+			"Title",
+			"clearfix",
+			"edit",
+			"openModal",
+			"keypress",
+			"on('",
+			"cancel",
+			"edit",
+			"gamma",
+			"edit",
+			"title",
+			"email_address",
+			"last_name",
+			"product",
+			"reset",
+			"CONTRIBUTING",
+			"gitattributes",
+			"\"*.gitignore\", ",
+			"i",
+			"first_name",
+			"App.Views.Contacts",
+			"first_name",
+			"(),\n",
+			"contact",
+			"main",
+			"->\n",
+			"database",
+			"SSL",
+			"php_mbstring",
+			"mbstring",
+			"vhost",
+			"$2",
+			"');\n",
+			"Submitted",
+			"');\n",
+			"body",
+			"model",
+			"contacts",
+			"argument",
+			"gif",
+			"argument"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ProductPanel"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Martin/Dropbox/Website Design/Olive Tree Interiors/Dev/index.html",
+					"settings":
+					{
+						"buffer_size": 284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Martin/Dropbox/Website Design/Olive Tree Interiors/Dev/gruntfile.js",
+					"settings":
+					{
+						"buffer_size": 2344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1441,
+								1441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 13.0,
+						"translation.y": 1067.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Martin/Dropbox/Website Design/Olive Tree Interiors/Dev/css/styles.scss",
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 203.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"prod",
+				"models/product.js"
+			],
+			[
+				"main",
+				"public/js/main.js"
+			],
+			[
+				"view",
+				"app/config/view.php"
+			],
+			[
+				"coll",
+				"public/js/collections.js"
+			],
+			[
+				"rout",
+				"app/routes.php"
+			],
+			[
+				"ma",
+				"js/main.js"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"..",
+				"js/lib/backbone.localStorage-min.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true
+}
